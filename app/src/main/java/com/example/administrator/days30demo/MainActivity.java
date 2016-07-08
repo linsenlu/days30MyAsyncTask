@@ -24,6 +24,7 @@ public class MainActivity extends AppCompatActivity {
                 }
             }
         });
+        //执行异步任务
         task.execute(path);
     }
 }
