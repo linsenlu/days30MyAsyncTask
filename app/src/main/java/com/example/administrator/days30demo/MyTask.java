@@ -10,9 +10,7 @@ import java.io.InputStream;
 import java.net.HttpURLConnection;
 import java.net.URL;
 
-/**
- * Created by Administrator on 2016/7/8.
- */
+
 public class MyTask extends AsyncTask<String,Void,Bitmap> {
 
     private Bitmap bitmap;
